@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "ce8ffccf39e62284a63cdac4c01ad52d"
+build_time: [522265433, 119385000]
+inputs:
+  "/Users/sbrennan/MakeSchool/Tower/Tower/GameScene.swift": [522265433, 0]
+  "/Users/sbrennan/MakeSchool/Tower/Tower/GameViewController.swift": [522262776, 0]
+  "/Users/sbrennan/MakeSchool/Tower/Tower/AppDelegate.swift": [522262274, 0]
